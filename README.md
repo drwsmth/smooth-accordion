@@ -1,8 +1,7 @@
 # smooth-accordion
 An accordion built with ES6 and WAAPI.
 
-#Example use:
-
+Example use:
 ```
 new Accordion({
 	singularMode: true,
